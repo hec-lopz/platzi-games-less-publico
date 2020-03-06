@@ -1,0 +1,4 @@
+{
+    "css.lint.important": "warning",
+    "liveServer.settings.CustomBrowser": "firefox"
+}
